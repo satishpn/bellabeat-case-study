@@ -51,5 +51,11 @@ The goal was to practice Python (Pandas and Matplotlib) and find basic patterns 
 
 ---
 
+## Data Source
+The dataset used in this project is the Fitbit Fitness Tracker Data from Kaggle:
+https://www.kaggle.com/datasets/arashnic/fitbit
+
+---
+
 ## Notes
 This was my first full data analysis project using Python and fitness tracking data.
