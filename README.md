@@ -5,7 +5,7 @@ This is a data analysis project where I explored Fitbit fitness tracker data to 
 
 The goal was to practice Python (Pandas and Matplotlib) and find basic patterns in user behavior.
 
---
+---
 
 ## What I worked on
 - Cleaned and organized Fitbit activity and sleep data
