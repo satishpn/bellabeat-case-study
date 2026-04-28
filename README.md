@@ -6,6 +6,10 @@ This is a data analysis project where I explored Fitbit fitness tracker data to 
 The goal was to practice Python (Pandas and Matplotlib) and find basic patterns in user behavior.
 
 ---
+## Stakeholders
+This analysis is intended for Bellabeat’s marketing and executive team to help guide product and marketing strategy.
+
+---
 
 ## What I worked on
 - Cleaned and organized Fitbit activity and sleep data
@@ -21,6 +25,13 @@ The goal was to practice Python (Pandas and Matplotlib) and find basic patterns 
 - Some users have short bursts of very high activity
 - Average sleep is around 7 hours but varies a lot
 - I didn’t find a strong relationship between activity and sleep
+
+---
+
+## Recommendations
+- Encourage users to improve consistency in daily activity levels
+- Promote sleep tracking features in the Bellabeat app
+- Develop personalized insights based on activity and sleep patterns
 
 ---
 
