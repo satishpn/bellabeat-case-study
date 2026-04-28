@@ -7,7 +7,7 @@ The goal was to practice Python (Pandas and Matplotlib) and find basic patterns 
 
 ---
 ## Stakeholders
-This analysis is intended for Bellabeat’s marketing and executive team to help guide product and marketing strategy.
+- This analysis is intended for Bellabeat’s marketing and executive team to help guide product and marketing strategy.
 
 ---
 
